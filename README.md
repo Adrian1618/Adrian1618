@@ -16,4 +16,4 @@ adrian02111994@hotmail.com, agg4hc@virginia.edu, adrian.gutierrez.vazquez@cern.c
 Through my phone;
 +1 541-515-0816 
 
-- For a more detail description of my expertise and experiences see Adrian_Gutierrez_CV.pdf
+- For a more detail description of my expertise and experiences see Adrian_Gutierrez_CV.pdf on Adrian1618 repository.
