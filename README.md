@@ -1,29 +1,29 @@
-## Adrian Gutierrez
+## Adrian Gutierrez, PhD
 
-Physicist (PhD Candidate) specializing in particle physics, data analysis, and computational methods.  
-Currently leading the Electromagnetic Calorimeter (ECAL) analysis for the MUonE experiment at CERN.
+Particle Physicist specializing in precision measurements, detector physics, and data-driven analysis.  
+Former lead analyst for the Electromagnetic Calorimeter (ECAL) within the MUonE experiment at CERN.
 
-My work focuses on precision measurements in fundamental physics, combining experimental data analysis with advanced computational techniques. I have extensive experience working with large datasets, detector calibration, and developing analysis frameworks in high-performance environments.
+My work focuses on extracting high-precision observables from complex detector systems, combining experimental techniques with advanced computational methods. I have extensive experience in calorimeter calibration, reconstruction algorithms, and large-scale data analysis in high-energy physics.
 
 ---
 
-### Research Focus
-- Electromagnetic calorimeter calibration and performance (MUonE)
-- Precision measurements in $\mu e$ scattering
-- Detector-data synchronization and reconstruction
-- Statistical analysis and modeling of experimental data
+### Research Expertise
+- Electromagnetic calorimeter calibration and performance (PbWO₄ ECAL systems)
+- Precision $\mu e$ scattering measurements (MUonE experiment)
+- Detector synchronization and reconstruction pipelines
+- Statistical modeling and uncertainty quantification
 
 ---
 
 ### Technical Skills
 
-**Programming & Analysis**
-- C++, Python, ROOT (PyROOT / C++ ROOT)
-- Data analysis in high-energy physics environments (CERN lxplus, Condor)
+**Programming & Data Analysis**
+- C++, Python, ROOT (CERN framework)
+- High-throughput data processing (CERN lxplus, Condor)
 
 **Mathematics & Methods**
-- Linear algebra, statistical inference, differential equations
-- Signal processing and data modeling
+- Statistical inference, linear algebra, differential equations
+- Signal extraction and noise modeling
 
 **Machine Learning**
 - TensorFlow, Scikit-Learn, TMVA
@@ -33,10 +33,10 @@ My work focuses on precision measurements in fundamental physics, combining expe
 
 ---
 
-### Current Role
-- Lead analyst for ECAL calibration and reconstruction in the **MUonE experiment** at CERN
-- Responsible for gain matching, detector performance studies, and data-driven calibration pipelines
-- Contributor to physics analysis efforts toward determining the hadronic contribution to the muon $g-2$
+### Professional Experience
+- Led ECAL calibration and reconstruction efforts for the MUonE experiment at CERN
+- Developed gain-matching procedures and detector performance studies
+- Designed analysis frameworks for precision measurements related to the muon $g-2$
 
 ---
 
@@ -45,8 +45,6 @@ My work focuses on precision measurements in fundamental physics, combining expe
 **Email**
 - agg4hc@virginia.edu  
 - adrian02111994@hotmail.com  
-
-*(CERN email may become inactive in the future)*
 
 **Phone**
 - +1 (434)-569-9564
