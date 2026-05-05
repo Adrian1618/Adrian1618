@@ -1,19 +1,58 @@
-- Hi, I’m @Adrian1618 a highly accomplished physicist with over 7 years of research experience and a solid background in computer science.
- I am a current key scientist research member of the MUonE project at CERN in charge of the electromagnetic calorimeter data analysis. 
- Expertise in machine/deep learning, linear algebra, and differential equations. Strong problem-solving skills, leadership, and autodidact. 
- 
-- Programing Languages:
-Python, C++, ROOT
- 
-- Specialized Software:
-LaTeX, Mathematica, MATLAB, TensorFlow, Scikit-Learn, TMVA
+## Adrian Gutierrez
 
-- How to reach me:
+Physicist (PhD Candidate) specializing in particle physics, data analysis, and computational methods.  
+Currently leading the Electromagnetic Calorimeter (ECAL) analysis for the MUonE experiment at CERN.
 
-Through my emails;
-adrian02111994@hotmail.com, agg4hc@virginia.edu, adrian.gutierrez.vazquez@cern.ch
+My work focuses on precision measurements in fundamental physics, combining experimental data analysis with advanced computational techniques. I have extensive experience working with large datasets, detector calibration, and developing analysis frameworks in high-performance environments.
 
-Through my phone;
-+1 541-515-0816 
+---
 
-- For a more detail description of my expertise and experiences see Adrian_Gutierrez_CV.pdf on Adrian1618 repository.
+### Research Focus
+- Electromagnetic calorimeter calibration and performance (MUonE)
+- Precision measurements in $\mu e$ scattering
+- Detector-data synchronization and reconstruction
+- Statistical analysis and modeling of experimental data
+
+---
+
+### Technical Skills
+
+**Programming & Analysis**
+- C++, Python, ROOT (PyROOT / C++ ROOT)
+- Data analysis in high-energy physics environments (CERN lxplus, Condor)
+
+**Mathematics & Methods**
+- Linear algebra, statistical inference, differential equations
+- Signal processing and data modeling
+
+**Machine Learning**
+- TensorFlow, Scikit-Learn, TMVA
+
+**Scientific Software**
+- LaTeX, Mathematica, MATLAB
+
+---
+
+### Current Role
+- Lead analyst for ECAL calibration and reconstruction in the **MUonE experiment** at CERN
+- Responsible for gain matching, detector performance studies, and data-driven calibration pipelines
+- Contributor to physics analysis efforts toward determining the hadronic contribution to the muon $g-2$
+
+---
+
+### Contact
+
+**Email**
+- agg4hc@virginia.edu  
+- adrian02111994@hotmail.com  
+
+*(CERN email may become inactive in the future)*
+
+**Phone**
+- +1 (434)-569-9564
+
+---
+
+### Additional Information
+A detailed overview of my experience and projects is available in  
+`Adrian_Gutierrez_CV.pdf` within this repository.
