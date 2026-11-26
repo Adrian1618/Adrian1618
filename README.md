@@ -85,4 +85,4 @@ I am preparing selected workflows for GitHub, with runnable examples, documented
 ### Additional Information
 
 A detailed overview of my research, technical experience, and publications is available in  
-[my CV](./Adrian_Gutierrez_CV.pdf).
+[my CV](./Adrian_Gutierrez_CV_Updated.pdf).
